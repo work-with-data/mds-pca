@@ -5,3 +5,5 @@ In his two-part 1962 article he presented an algorithm performing the Multidimen
 The real inventor was:
 
 Warren S. Torgerson, __*A Theoretical and Empirical Investigation of Multidimensional Scaling*__, Ph.D. Thesis, Princeton University 1951.
+
+Before him it was invented by Harold Gulliksen.
