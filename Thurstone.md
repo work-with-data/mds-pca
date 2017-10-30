@@ -2,9 +2,9 @@ The psychological continuum or scale is so constructed or defined that the frequ
 
 The standard deviation of the distribution of discriminal processes on the scale for a particular specimen will be called its discriminal dispersion. In a similar manner the discriminal deviation at another moment will be negative.
 
-L.L. Thurstone, __*A Law of Comparative Judgment*__, Psychological Review, vol. 34, No 4, pp. 273-286, 1927.
+Louis Leon Thurstone, __*A Law of Comparative Judgment*__, Psychological Review, vol. 34, No 4, pp. 273-286, 1927.
 
-L. L. Thurstone, __*A law of comparative judgment*__, Psychological Review Volume 101 issue 2 1994 [doi 10.1037%2F0033-295x.101.2.266]  with comments by R. Duncan Luce and Robyn M. Dawes following the article.
+Louis Leon Thurstone, __*A law of Comparative Judgment*__, Psychological Review Volume 101 issue 2 1994 [doi 10.1037%2F0033-295x.101.2.266]  with comments by R. Duncan Luce and Robyn M. Dawes following the article.
 
 Harold Gulliksen, John W. Tukey, __*Reliability for the law of comparative judgment*__, Psychometrika Volume 23 issue 2 1958 [doi 10.1007%2Fbf02289008] 
 
