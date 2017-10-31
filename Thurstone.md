@@ -1,4 +1,14 @@
-The psychological continuum or scale is so constructed or defined that the frequencies of the respective discriminal processes for any given stimulus form a normal distribution on the psychological scale. This involves no assumption of a normal distribution or of anything else. The psychological scale is at best an artificial construct. If it has any physical reality we certainly have not the remotest idea what it may be like. We do not assume, therefore, that the distribution of discriminal processes is normal on the scale because that would imply that the scale is there already. We define the scale in terms of the frequencies of the discriminal processes for any stimulus. This artificial construct, the psychological scale, is so spaced off that the frequencies of the discriminal processes for any given stimulus form a normal distribution on the scale. The separation on the scale between the discriminal process for a given stimulus on any particular occasion and the modal discriminal process for that stimulus we shall call the discriminal deviation on that occasion. If on a particular occasion, the observer perceives more than the usual degree of excellence or weight in the specimen in question, the discriminal deviation is at that instant positive.
+# A law of Comparative Judgment
+
+Straight to the point (I have subdivided the paragraph into several):
+
+The psychological continuum or scale is so constructed or defined that the frequencies of the respective discriminal processes for any given stimulus form a normal distribution on the psychological scale. This involves no assumption of a normal distribution or of anything else. 
+
+The psychological scale is at best an artificial construct. If it has any physical reality we certainly have not the remotest idea what it may be like. We do not assume, therefore, that the distribution of discriminal processes is normal on the scale because that would imply that the scale is there already. 
+
+We define the scale in terms of the frequencies of the discriminal processes for any stimulus. This artificial construct, the psychological scale, is so spaced off that the frequencies of the discriminal processes for any given stimulus form a normal distribution on the scale. 
+
+The separation on the scale between the discriminal process for a given stimulus on any particular occasion and the modal discriminal process for that stimulus we shall call the discriminal deviation on that occasion. If on a particular occasion, the observer perceives __more__ than the usual degree of excellence or weight in the specimen in question, the discriminal deviation is at that instant __positive__.
 
 The standard deviation of the distribution of discriminal processes on the scale for a particular specimen will be called its discriminal dispersion. In a similar manner the discriminal deviation at another moment will be negative.
 
